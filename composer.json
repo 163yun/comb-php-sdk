@@ -1,6 +1,6 @@
 {
     "name": "bestony/comb",
-    "description": "c.163.com  php sdk",
+    "description": "网易蜂巢 OpenAPI PHP SDK",
     "type": "php",
     "license": "MIT",
     "authors": [
